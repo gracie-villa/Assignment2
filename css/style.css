@@ -7,6 +7,7 @@ h1 {
    color: #897D7E;
    font-size: 80px;
    letter-spacing: 2.5rem;
+   text-align: center;
 }
 
 h2 {
@@ -21,4 +22,5 @@ q {
 
 div {
    color: white;
+   font-family: 'PT Sans Narrow', sans-serif;
 }
