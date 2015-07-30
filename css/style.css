@@ -1,10 +1,11 @@
 html {
-   backgrounnd-color: #ddd;
+   background-color: black;
 }
 
 h1 {
    font-family: 'PT Sans Narrow', sans-serif;
    color: #897D7E;
+   font-size: 80px;
 }
 
 h2 {
@@ -13,5 +14,9 @@ h2 {
 }
 
 q {
-   color: #D0A19C;
+   color: #BE8683;
+}
+
+div {
+   color: white;
 }
