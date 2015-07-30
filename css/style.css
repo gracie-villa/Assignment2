@@ -18,9 +18,14 @@ h2 {
 
 q {
    color: #BE8683;
+   text-align: right;
 }
 
 div {
    color: white;
    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.critics {
+   color: #BE8683;
 }
