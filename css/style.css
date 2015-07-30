@@ -1,4 +1,17 @@
+html {
+   backgrounnd-color: #ddd;
+}
+
 h1 {
    font-family: 'PT Sans Narrow', sans-serif;
-   font-color: #ddd;
+   color: #897D7E;
+}
+
+h2 {
+   font-family: 'PT Sans Narrow', sans-serif;
+   color: #897D7E;
+}
+
+q {
+   color: #D0A19C;
 }
