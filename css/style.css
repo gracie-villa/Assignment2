@@ -58,3 +58,8 @@ footer img {
    padding-top: 20px;
    padding-bottom: 10px;
 }
+
+
+li:hover {
+   font-size:4rem;
+}
