@@ -7,7 +7,6 @@ h1 {
    color: #897D7E;
    font-size: 80px;
    letter-spacing: 2.5rem;
-   text-align: center;
 }
 
 h2 {
@@ -15,12 +14,10 @@ h2 {
    color: #897D7E;
    font-size: 40px;
    letter-spacing: 2.5rem;
-   text-align: center;
 }
 
 q {
    color: #BE8683;
-   text-align: right;
 }
 
 div {
