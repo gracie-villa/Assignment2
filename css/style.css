@@ -23,6 +23,7 @@ h2 {
 #quote {
    color: #BE8683;
    margin: 90px 0px 90px 0px;
+   font-size: 40px;
 }
 
 div {
@@ -64,4 +65,10 @@ li:hover {
    font-size:2rem;
 }
 
+ol {
+   font-size: 20px;
+}
 
+p {
+   font-size: 20px;
+}
