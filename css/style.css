@@ -14,10 +14,12 @@ h2 {
    font-family: 'PT Sans Narrow', sans-serif;
    color: #897D7E;
    font-size: 40px;
+   letter-spacing: 2.5rem;
+   text-align: center;
 }
 
 q {
-   color: #C9655F;
+   color: #BE8683;
    text-align: right;
 }
 
@@ -27,7 +29,7 @@ div {
 }
 
 .critics {
-   color: #C9655F;
+   color: #BE8683;
 }
 
 li {
@@ -39,6 +41,4 @@ span {
 font-size: 70px;
 }
 
-ol {
-   text-align: center;
-}
+
