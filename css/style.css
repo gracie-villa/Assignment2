@@ -8,6 +8,8 @@ h1 {
    font-size: 80px;
    letter-spacing: 2.5rem;
    border: solid #897D7E;
+   border-left: none;
+   border-right: none;
 }
 
 h2 {
