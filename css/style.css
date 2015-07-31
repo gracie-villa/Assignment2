@@ -17,7 +17,7 @@ h2 {
 }
 
 q {
-   color: #BE8683;
+   color: #C9655F;
    text-align: right;
 }
 
@@ -27,5 +27,18 @@ div {
 }
 
 .critics {
-   color: #BE8683;
+   color: #C9655F;
+}
+
+li {
+   list-style-type: none;
+   counter-reset: ol-counter;
+}
+
+span {
+font-size: 70px;
+}
+
+ol {
+   text-align: center;
 }
