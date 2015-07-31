@@ -10,6 +10,7 @@ h1 {
    border: solid #897D7E;
    border-left: none;
    border-right: none;
+   border-width: 1px;
 }
 
 h2 {
