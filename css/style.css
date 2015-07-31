@@ -16,8 +16,9 @@ h2 {
    letter-spacing: 2.5rem;
 }
 
-q {
+#quote {
    color: #BE8683;
+   margin: 90px 0px 90px 0px;
 }
 
 div {
