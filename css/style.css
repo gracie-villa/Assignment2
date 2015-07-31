@@ -6,7 +6,7 @@ h1 {
    font-family: 'PT Sans Narrow', sans-serif;
    color: #897D7E;
    font-size: 80px;
-   letter-spacing: 2.5rem;
+   letter-spacing: 2rem;
    border: solid #897D7E;
    border-left: none;
    border-right: none;
@@ -17,7 +17,7 @@ h2 {
    font-family: 'PT Sans Narrow', sans-serif;
    color: #897D7E;
    font-size: 40px;
-   letter-spacing: 2.5rem;
+   letter-spacing: 2rem;
 }
 
 #quote {
@@ -63,3 +63,5 @@ footer img {
 li:hover {
    font-size:2rem;
 }
+
+
