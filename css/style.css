@@ -42,9 +42,9 @@ div + div {
 .critics {
    color: #BE8683;
    margin-bottom: 100px;
-   border-bottom: solid #897D7E;
+   border-bottom: dashed #897D7E;
    border-width: 1px;
-   padding-bottom: 20px;
+   padding-bottom: 50px;
 }
 
 li {
