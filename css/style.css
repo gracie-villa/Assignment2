@@ -33,12 +33,18 @@ h2 {
 div {
    color: #fff8f8;
    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+div + div {
    margin-right: 150px;
 }
 
 .critics {
    color: #BE8683;
-   margin-bottom: 75px;
+   margin-bottom: 100px;
+   border-bottom: solid #897D7E;
+   border-width: 1px;
+   padding-bottom: 20px;
 }
 
 li {
