@@ -63,7 +63,7 @@ footer {
    text-align: right;
 }
 
-img {
+div img {
    float: right;
    position: relative;
 }
@@ -86,3 +86,14 @@ p {
    font-size: 20px;
 }
 
+a[href] {
+   text-decoration: none;
+   color: #fff8f8;
+}
+
+a:hover {
+   color: #fff8f8;
+   cursor: pointer;
+}
+
+audio
