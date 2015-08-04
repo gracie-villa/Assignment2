@@ -48,6 +48,12 @@ footer {
    font-family: 'PT Sans Narrow', sans-serif;
    font-size: 20px;
    text-align: right;
+   border: solid #BE8683;
+   border-left: none;
+   border-right: none;
+   border-bottom: none;
+   border-width: 1px;
+   color:#BE8683;
 }
 
 
