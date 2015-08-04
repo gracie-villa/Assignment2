@@ -48,12 +48,14 @@ footer {
    font-family: 'PT Sans Narrow', sans-serif;
    font-size: 20px;
    text-align: right;
-   border: solid #BE8683;
+   border: solid #897D7E;
    border-left: none;
    border-right: none;
    border-bottom: none;
    border-width: 1px;
-   color:#BE8683;
+   color:#897D7E;
+   letter-spacing: .25rem;
+   padding-right: 20px;
 }
 
 
@@ -70,5 +72,15 @@ a[href] {
 
 a:hover {
    color: #BE8683;
+   cursor: pointer;
+}
+
+#footer {
+   text-decoration: none;
+   color: #BE8683;
+}
+
+#footer:hover {
+   color: #897D7E;
    cursor: pointer;
 }
