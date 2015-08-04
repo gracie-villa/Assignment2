@@ -14,7 +14,7 @@ html {
    border-left: none;
    border-right: none;
    border-width: 1px;
-   margin: none;
+   text-align: center;
 }
 
 h2 {
@@ -63,10 +63,10 @@ footer {
    text-align: right;
 }
 
-footer img {
-      float: left;
-      width: 169px;
-         }
+img {
+   float: right;
+   position: relative;
+}
 
 #padding {
    padding-top: 20px;
