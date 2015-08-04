@@ -84,3 +84,7 @@ a:hover {
    color: #897D7E;
    cursor: pointer;
 }
+
+audio {
+   padding-bottom: 25px;
+}
